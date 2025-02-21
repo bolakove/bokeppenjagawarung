@@ -1,4 +1,3 @@
 User-agent: *
 Disallow:
 Allow: /
-sitemap: https://bokeppenjagawarung.pages.dev/sitemap.xml
